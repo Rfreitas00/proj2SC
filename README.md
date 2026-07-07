@@ -8,8 +8,6 @@ It also includes the dataset used during development and the final project repor
 
 ## The Project
 
-## The Project
-
 The final implementation allows a player to play Tic-Tac-Toe against the camera. Due to the mechanical limitations of the robotic arm used in the project, only one game configuration was implemented: the human player always plays with **O**, while the camera-controlled opponent always plays with **X**.
 
 ## Contents
