@@ -4,7 +4,7 @@
 
 This repository contains the source code and supporting files developed for Project 2 of the "Sistemas Ciberfísicos" (Cyber-Physical Systems - CPS) course. 
 The project combines an Arduino-based embedded system with a Python application that communicates through Bluetooth Low Energy (BLE). 
-It also includes the dataset used during development, the ML model trained with the dataset and the final project report.
+It also includes the dataset used during development and the final project report.
 
 ## The Project
 
