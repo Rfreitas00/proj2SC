@@ -6,6 +6,12 @@ This repository contains the source code and supporting files developed for Proj
 The project combines an Arduino-based embedded system with a Python application that communicates through Bluetooth Low Energy (BLE). 
 It also includes the dataset used during development, the ML model trained with the dataset and the final project report.
 
+## The Project
+
+## The Project
+
+The final implementation allows a player to play Tic-Tac-Toe against the camera. Due to the mechanical limitations of the robotic arm used in the project, only one game configuration was implemented: the human player always plays with **O**, while the camera-controlled opponent always plays with **X**.
+
 ## Contents
 
 - **arduino_ttt_ble.cpp**  
@@ -32,4 +38,4 @@ Rodrigo Freitas, Leonardo Gonçalves
 
 ## Final Note
 
-This implementation was presented at Rock in Rock with slight changes to improve the communication and other aspects
+This implementation was presented at Rock in Rio 2026 with slight changes to improve the communication and other aspects
