@@ -26,7 +26,8 @@ The final implementation allows a player to play Tic-Tac-Toe against the camera.
 
 ## Requirements
 
-- Arduino IDE or PlatformIO
+- Arduino IDE
+- OpenMV
 - Python 3.x
 - Required Python libraries (see source code imports)
 
