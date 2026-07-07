@@ -1,4 +1,4 @@
-# Project 2 – Smart Computing
+# Project 2 – Sistemas Ciberfísicos
 
 ## Overview
 
